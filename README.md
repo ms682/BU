@@ -1,2 +1,2 @@
-# BU
+# Materials for python workshop
 Text
